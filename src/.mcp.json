@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "mediinsight-law": {
+      "command": "python3",
+      "args": [
+        "./mcp/mediinsight_law_server.py"
+      ]
+    }
+  }
+}

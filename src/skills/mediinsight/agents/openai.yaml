@@ -1,0 +1,7 @@
+interface:
+  display_name: "MediInsight"
+  short_description: "Public review to compliant Instagram content"
+  default_prompt: "Use $mediinsight to analyze these Meditherapy product URLs and create evidence-backed Instagram assets."
+
+policy:
+  allow_implicit_invocation: true

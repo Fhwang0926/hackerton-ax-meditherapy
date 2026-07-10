@@ -1,0 +1,86 @@
+{
+  "project": "Meditherapy PDRN public customer voice",
+  "product_name": "메디테라피 PDRN 스킨부스터 세럼",
+  "product_image_url": "https://meditherapy.co.kr/web/product/big/202511/2b97e2742112d01ea4aeaf4e3a718d6f.jpg",
+  "comic_background_paths": [
+    "examples/assets/meditherapy-pdrn/comic_01_background.png",
+    "examples/assets/meditherapy-pdrn/comic_02_background.png",
+    "examples/assets/meditherapy-pdrn/comic_03_background.png"
+  ],
+  "product_hero_path": "examples/assets/meditherapy-pdrn/product_hero.png",
+  "max_review_pages": 3,
+  "channels": [
+    {
+      "name": "meditherapy_official_pdrn",
+      "type": "product_page",
+      "url": "https://meditherapy.co.kr/product/detail.html?cate_no=118&display_group=1&product_no=2039"
+    },
+    {
+      "name": "hwahae_pdrn",
+      "type": "external_review_page",
+      "url": "https://www.hwahae.co.kr/products/2166543"
+    }
+  ],
+  "visual_claims": [
+    {
+      "phrase": "불만족시 100% 환불보장",
+      "source": "product_image",
+      "provenance": "browser_vlm_visible_text",
+      "url": "https://meditherapy.co.kr/web/product/big/202511/2b97e2742112d01ea4aeaf4e3a718d6f.jpg"
+    }
+  ],
+  "reviews": [
+    {
+      "channel": "meditherapy_official",
+      "url": "https://meditherapy.co.kr/product/detail.html?cate_no=118&display_group=1&product_no=2039",
+      "captured_at": "2026-07-10T00:00:00+09:00",
+      "provenance": "browser_visible_review",
+      "skin_type": "민감성",
+      "usage_period": "며칠",
+      "text": "피부가 예민한 편인데 자극이 거의 없었고, 며칠 사용 후 피부결이 정돈되는 느낌이 들었습니다. 아침과 저녁 모두 사용했고 재구매 의사가 있습니다."
+    },
+    {
+      "channel": "meditherapy_official",
+      "url": "https://meditherapy.co.kr/product/detail.html?cate_no=118&display_group=1&product_no=2039",
+      "captured_at": "2026-07-10T00:00:00+09:00",
+      "provenance": "browser_visible_review",
+      "skin_type": "민감성",
+      "usage_period": "2주",
+      "text": "2주 정도 사용했으며 무겁거나 끈적이지 않았고, 화장 전에 사용해도 들뜸이 적었다는 후기입니다."
+    },
+    {
+      "channel": "meditherapy_official",
+      "url": "https://meditherapy.co.kr/product/detail.html?cate_no=118&display_group=1&product_no=2039",
+      "captured_at": "2026-07-10T00:00:00+09:00",
+      "provenance": "browser_visible_review",
+      "skin_type": "민감성",
+      "usage_period": "3일",
+      "text": "촉촉하게 발리지만 마무리는 산뜻하고 화장 전에 사용해도 밀림이 없었다는 사용 경험입니다."
+    },
+    {
+      "channel": "meditherapy_official",
+      "url": "https://meditherapy.co.kr/product/detail.html?cate_no=118&display_group=1&product_no=2039",
+      "captured_at": "2026-07-10T00:00:00+09:00",
+      "provenance": "browser_visible_review",
+      "usage_period": "장기 사용",
+      "text": "모이스처 라인과 함께 사용했고 보습감이 좋았으며, 마음에 들어 재구매할 것 같다는 후기입니다."
+    },
+    {
+      "channel": "meditherapy_official",
+      "url": "https://meditherapy.co.kr/product/detail.html?cate_no=118&display_group=1&product_no=2039",
+      "captured_at": "2026-07-10T00:00:00+09:00",
+      "provenance": "browser_visible_review",
+      "skin_type": "민감성",
+      "usage_period": "지속 사용",
+      "text": "아침과 저녁 루틴을 나눠 꾸준히 사용했으며, 베이스 메이크업 밀착이 좋아졌다고 느낀 후기입니다."
+    },
+    {
+      "channel": "hwahae",
+      "url": "https://www.hwahae.co.kr/products/2166543",
+      "captured_at": "2026-07-10T00:00:00+09:00",
+      "provenance": "public_search_index_excerpt",
+      "usage_period": "아침 루틴",
+      "text": "토너, 히알루론산 세럼, PDRN, 보습 크림 순으로 사용하고 아침에 피부 상태를 확인한다는 공개 후기입니다."
+    }
+  ]
+}

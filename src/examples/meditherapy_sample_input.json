@@ -1,0 +1,52 @@
+{
+  "demo": true,
+  "project": "Meditherapy distributed customer voice sample",
+  "product_name": "메디테라피 PDRN 리프팅 앰플 샘플",
+  "campaign_goal": "분산된 공개 리뷰를 근거 기반 인스타그램 콘텐츠로 전환",
+  "channels": [
+    {
+      "name": "meditherapy_official",
+      "type": "product_page",
+      "url": "https://meditherapy.co.kr/"
+    },
+    {
+      "name": "oliveyoung_public",
+      "type": "marketplace",
+      "url": "https://www.oliveyoung.co.kr/"
+    }
+  ],
+  "manual_reviews": [
+    {
+      "channel": "oliveyoung_sample",
+      "provenance": "demo_fixture",
+      "rating": 5,
+      "skin_type": "민감성",
+      "usage_period": "2주",
+      "text": "처음 며칠은 살짝 건조한 느낌이 있었는데 2주 정도 쓰니 피부결이 매끈해진 느낌이에요. 재구매 의사 있어요."
+    },
+    {
+      "channel": "naver_sample",
+      "provenance": "demo_fixture",
+      "rating": 4,
+      "skin_type": "지성",
+      "usage_period": "4주",
+      "text": "아침에는 양을 적게 발라야 메이크업이 덜 밀려요. 밤 루틴으로 쓰면 끈적임 부담이 적고 한 달째 사용 중입니다."
+    },
+    {
+      "channel": "coupang_sample",
+      "provenance": "demo_fixture",
+      "rating": 5,
+      "skin_type": "건성",
+      "usage_period": "1개월",
+      "text": "한 통 거의 다 쓰고 재구매했어요. 즉각적인 기적은 아니지만 꾸준히 쓰면 보습감이 오래 가는 편입니다."
+    },
+    {
+      "channel": "official_sample",
+      "provenance": "demo_fixture",
+      "rating": 3,
+      "skin_type": "복합성",
+      "usage_period": "1주",
+      "text": "제품은 괜찮은데 낮에 많이 바르면 약간 답답해요. 저녁에 얇게 바르는 사용법 안내가 있으면 좋겠어요."
+    }
+  ]
+}

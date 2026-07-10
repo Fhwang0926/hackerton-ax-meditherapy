@@ -1,0 +1,35 @@
+{
+  "name": "mediinsight",
+  "version": "0.1.0+codex.20260710001957",
+  "description": "Converts public cosmetic customer signals into evidence-backed reports, Instagram assets, and ad compliance review.",
+  "author": {
+    "name": "MediInsight Hackathon Team"
+  },
+  "license": "MIT",
+  "keywords": [
+    "cosmetics",
+    "marketing",
+    "compliance",
+    "reviews",
+    "meditherapy"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "MediInsight",
+    "shortDescription": "Public review insight and cosmetic ad QA for Meditherapy.",
+    "longDescription": "MediInsight collects public customer voice from distributed cosmetic sales channels, builds evidence-backed insight reports, generates Instagram-ready 4-cut content drafts, and reviews generated copy against cosmetic advertising risk rules with optional Korean Law MCP support.",
+    "developerName": "MediInsight Hackathon Team",
+    "category": "Productivity",
+    "capabilities": [
+      "Write",
+      "Interactive"
+    ],
+    "defaultPrompt": [
+      "Create a Meditherapy insight report from these URLs.",
+      "Generate Instagram carousel drafts and compliance QA.",
+      "Review this cosmetic ad copy for risky claims."
+    ],
+    "brandColor": "#0F766E"
+  }
+}
